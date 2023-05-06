@@ -11,6 +11,7 @@ public class App {
         System.out.println("Hello Git! gyt hotfix first modify!");
         System.out.println("Hello GitHub! gyt master first oush GitHub!");
         System.out.println("Test pull from GitHub!");
+        System.out.println("Clone to Idea from GitHub!");
     }
 
 }
