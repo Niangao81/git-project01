@@ -7,6 +7,10 @@ public class App {
         System.out.println("Hello Git! gyt master second commit!");
         System.out.println("Hello Git! gyt hotfix first commit!");
         System.out.println("Hello Git! gyt master first modify!");
+
+        System.out.println("Hello Git! gyt master first modify!");
+
+        System.out.println("Hello Git! gyt hotfix first modify!");
     }
 
 }
